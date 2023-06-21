@@ -1,0 +1,5 @@
+print("welcome to dog name generator")
+movie_character = input("who is your favourite movie character\n")
+city_name = input("where do you born\n")
+dog_name=(city_name+movie_character)
+print("The name for your pet is"+ dog_name)
